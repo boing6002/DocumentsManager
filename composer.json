@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/documentsmanager",
+    "name": "boing6002/documentsmanager",
     "description": "Documents Manager for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -19,15 +19,7 @@
         }
     ],
     "require": {
-        "php": ">=7.1.0",
-        "laravel-enso/activitylog": "1.1.*",
-        "laravel-enso/core": "3.6.*",
-        "laravel-enso/helpers": "1.10.*",
-        "laravel-enso/filemanager": "2.5.*",
-        "laravel-enso/imagetransformer": "1.4.*",
-        "laravel-enso/structuremanager": "2.5.*",
-        "laravel-enso/trackwho": "1.7.*",
-        "laravel-enso/vuecomponents": "2.7.*"
+        "php": ">=7.1.0"
     },
     "autoload": {
         "psr-4": {
